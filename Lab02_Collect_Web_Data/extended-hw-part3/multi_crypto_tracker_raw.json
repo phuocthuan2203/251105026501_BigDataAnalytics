@@ -1,0 +1,82 @@
+{
+  "collection_info": {
+    "script": "multi_crypto_tracker.py",
+    "collection_time": "2025-09-23 22:45:36",
+    "cryptocurrencies": [
+      "BTC",
+      "ETH",
+      "DOGE"
+    ],
+    "total_records": 9
+  },
+  "price_data": [
+    {
+      "time": "2025-09-23 22:45:06",
+      "symbol": "BTC",
+      "usd_price": 112930.0,
+      "collected_at": "2025-09-23 22:45:36"
+    },
+    {
+      "time": "2025-09-23 22:45:06",
+      "symbol": "DOGE",
+      "usd_price": 0.240866,
+      "collected_at": "2025-09-23 22:45:36"
+    },
+    {
+      "time": "2025-09-23 22:45:06",
+      "symbol": "ETH",
+      "usd_price": 4184.27,
+      "collected_at": "2025-09-23 22:45:36"
+    },
+    {
+      "time": "2025-09-23 22:45:21",
+      "symbol": "BTC",
+      "usd_price": 112910.0,
+      "collected_at": "2025-09-23 22:45:36"
+    },
+    {
+      "time": "2025-09-23 22:45:21",
+      "symbol": "DOGE",
+      "usd_price": 0.2408,
+      "collected_at": "2025-09-23 22:45:36"
+    },
+    {
+      "time": "2025-09-23 22:45:21",
+      "symbol": "ETH",
+      "usd_price": 4183.34,
+      "collected_at": "2025-09-23 22:45:36"
+    },
+    {
+      "time": "2025-09-23 22:45:36",
+      "symbol": "BTC",
+      "usd_price": 112910.0,
+      "collected_at": "2025-09-23 22:45:36"
+    },
+    {
+      "time": "2025-09-23 22:45:36",
+      "symbol": "DOGE",
+      "usd_price": 0.2408,
+      "collected_at": "2025-09-23 22:45:36"
+    },
+    {
+      "time": "2025-09-23 22:45:36",
+      "symbol": "ETH",
+      "usd_price": 4183.34,
+      "collected_at": "2025-09-23 22:45:36"
+    }
+  ],
+  "raw_api_response": {
+    "bitcoin": {
+      "usd": 112930,
+      "last_updated_at": 1758642241
+    },
+    "dogecoin": {
+      "usd": 0.240866,
+      "last_updated_at": 1758642235
+    },
+    "ethereum": {
+      "usd": 4184.27,
+      "last_updated_at": 1758642243
+    }
+  }
+}

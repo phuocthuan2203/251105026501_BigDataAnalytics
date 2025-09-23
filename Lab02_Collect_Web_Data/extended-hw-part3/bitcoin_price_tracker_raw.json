@@ -1,0 +1,19 @@
+{
+  "collection_info": {
+    "script": "bitcoin_price_tracker.py",
+    "collection_time": "2025-09-23 22:37:38",
+    "total_records": 2
+  },
+  "price_data": [
+    {
+      "time": "2025-09-23 22:34:50",
+      "usd_price": 112970,
+      "collected_at": "2025-09-23 22:37:38"
+    },
+    {
+      "time": "2025-09-23 22:37:00",
+      "usd_price": 113002,
+      "collected_at": "2025-09-23 22:37:38"
+    }
+  ]
+}
